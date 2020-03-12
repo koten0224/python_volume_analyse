@@ -1,0 +1,174 @@
+﻿time: 2019-07-21 20:13:14
+function: get
+args: 
+	arg1: https://www.ettoday.net//news/20190716/1490974.htm
+- - - - - - - - - - 
+HTTPError: 410 Client Error: Gone for url: https://www.ettoday.net//news/20190716/1490974.htm
+==============================
+time: 2019-07-21 20:13:14
+function: bs
+args: 
+	arg1: None
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'text'
+==============================
+time: 2019-07-21 20:13:15
+function: find
+args: 
+	arg1: None
+	arg2: title
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'find'
+==============================
+time: 2019-07-21 20:13:15
+function: get_mtext
+args: 
+	arg1: None
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'text'
+==============================
+time: 2019-07-21 20:26:58
+function: get
+args: 
+	arg1: https://www.ettoday.net//news/20190630/1477564.htm
+- - - - - - - - - - 
+HTTPError: 410 Client Error: Gone for url: https://www.ettoday.net//news/20190630/1477564.htm
+==============================
+time: 2019-07-21 20:26:58
+function: bs
+args: 
+	arg1: None
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'text'
+==============================
+time: 2019-07-21 20:26:58
+function: find
+args: 
+	arg1: None
+	arg2: title
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'find'
+==============================
+time: 2019-07-21 20:26:58
+function: get_mtext
+args: 
+	arg1: None
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'text'
+==============================
+time: 2019-07-21 20:27:47
+function: get
+args: 
+	arg1: https://www.ettoday.net//news/20190628/1477692.htm
+- - - - - - - - - - 
+HTTPError: 410 Client Error: Gone for url: https://www.ettoday.net//news/20190628/1477692.htm
+==============================
+time: 2019-07-21 20:27:47
+function: bs
+args: 
+	arg1: None
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'text'
+==============================
+time: 2019-07-21 20:27:47
+function: find
+args: 
+	arg1: None
+	arg2: title
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'find'
+==============================
+time: 2019-07-21 20:27:47
+function: get_mtext
+args: 
+	arg1: None
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'text'
+==============================
+time: 2019-07-21 20:28:44
+function: get
+args: 
+	arg1: https://www.ettoday.net//news/20190627/1476576.htm
+- - - - - - - - - - 
+HTTPError: 410 Client Error: Gone for url: https://www.ettoday.net//news/20190627/1476576.htm
+==============================
+time: 2019-07-21 20:28:44
+function: bs
+args: 
+	arg1: None
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'text'
+==============================
+time: 2019-07-21 20:28:44
+function: find
+args: 
+	arg1: None
+	arg2: title
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'find'
+==============================
+time: 2019-07-21 20:28:44
+function: get_mtext
+args: 
+	arg1: None
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'text'
+==============================
+time: 2019-07-21 20:30:37
+function: get
+args: 
+	arg1: https://www.ettoday.net//news/20190625/1475279.htm
+- - - - - - - - - - 
+HTTPError: 410 Client Error: Gone for url: https://www.ettoday.net//news/20190625/1475279.htm
+==============================
+time: 2019-07-21 20:30:37
+function: bs
+args: 
+	arg1: None
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'text'
+==============================
+time: 2019-07-21 20:30:37
+function: find
+args: 
+	arg1: None
+	arg2: title
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'find'
+==============================
+time: 2019-07-21 20:30:37
+function: get_mtext
+args: 
+	arg1: None
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'text'
+==============================
+time: 2019-07-21 20:31:27
+function: get
+args: 
+	arg1: https://www.ettoday.net//news/20190624/1473793.htm
+- - - - - - - - - - 
+HTTPError: 410 Client Error: Gone for url: https://www.ettoday.net//news/20190624/1473793.htm
+==============================
+time: 2019-07-21 20:31:27
+function: bs
+args: 
+	arg1: None
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'text'
+==============================
+time: 2019-07-21 20:31:27
+function: find
+args: 
+	arg1: None
+	arg2: title
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'find'
+==============================
+time: 2019-07-21 20:31:27
+function: get_mtext
+args: 
+	arg1: None
+- - - - - - - - - - 
+AttributeError: 'NoneType' object has no attribute 'text'
+==============================
